@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+outputs/checkpoint-*/
+outputs/sweep-*/
+outputs/*/checkpoint-*/
+outputs/*/training_args.bin
+*.bak
+.DS_Store
+outputs/lora-qwen0.5b/tokenizer*
+outputs/lora-qwen0.5b/chat_template.jinja
+outputs/lora-qwen0.5b/README.md
+.claude/
+outputs/sweep_results.json
